@@ -3,7 +3,9 @@ GymBuddy - A Fitness Tracker Mobile App
 GymBuddy is a full-stack fitness tracking mobile application built using the MERN stack (MongoDB, Express.js, React Native, and Node.js). It is designed to help users track their workouts and meal plans, visualize progress, and manage settings—all from a user-friendly mobile interface.
 
 Input
-The application requires user input primarily through the mobile interface. Users can:
+The application requires user input primarily through the mobile interface. 
+
+Users can:
 
 Add new workouts by entering workout names.
 Add meals or nutrition items for their daily diet plans.
